@@ -2,4 +2,4 @@
 
 #  Atividade de flex-box- Aula de P.I
 
-# Professores: Fernanda Karamiko e William
+# Professores: Fernanda Caramiko e William
